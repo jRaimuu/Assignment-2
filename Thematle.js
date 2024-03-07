@@ -7,8 +7,7 @@ import * as ControllerModule from './ThematleController.js'
 // Course: SENG 513
 // Date: Oct 1, 2023
 // Assignment 1
-// Name: Liam Sarjeant
-// UCID: 30150737 
+
 // import Words from './GameContext';
 
 /**
